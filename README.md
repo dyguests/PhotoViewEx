@@ -5,6 +5,8 @@ A PhotoView include TOP_CROP and BOTTOM_CROP.
 <a href="./graphics/device-2015-11-29-161842.png"><img src="./graphics/device-2015-11-29-161842.png" width="40%"/></a>
 <a href="./graphics/device-2015-11-29-161901.png"><img src="./graphics/device-2015-11-29-161901.png" width="40%"/></a>
 
+link to [PhotoView](https://github.com/chrisbanes/PhotoView).
+
 #Useage
 
 ##Step 1.
