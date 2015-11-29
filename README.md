@@ -9,17 +9,17 @@ link to [PhotoView](https://github.com/chrisbanes/PhotoView).
 
 #Useage
 
-How to use CROP_TOP and CROP_BOTTOM.
+##How to use CROP_TOP and CROP_BOTTOM.
 
-##Step 1.
+###Step 1.
 
     compile 'com.github.chrisbanes.photoview:library:1.2.4'
 
-##Step 2.
+###Step 2.
 
 copy PhotoViewAttacherEx.java into your Project.
 
-##Step 3.
+###Step 3.
 
     private PhotoViewAttacherEx mAttacher;
 
@@ -32,7 +32,7 @@ copy PhotoViewAttacherEx.java into your Project.
     mAttacher.setScaleType(PhotoViewAttacherEx.ScaleTypeEx.CROP_TOP);
     mAttacher.setScaleType(PhotoViewAttacherEx.ScaleTypeEx.CROP_BOTTOM);
 
-How to work in VerticalViewPager.
+##How to work in VerticalViewPager.
 
     mAttacher.setParentIsVertical(true);
 
