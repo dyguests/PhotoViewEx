@@ -40,11 +40,11 @@ public class MainActivity extends AppCompatActivity {
 
         mAttacher = new PhotoViewAttacherEx(mImageView);
 
-        // except PhotoViewAttacherEx.ScaleTypeEx.TOP_CROP/BOTTOM_CROP,
+        // except PhotoViewAttacherEx.ScaleTypeEx.CROP_TOP/CROP_BOTTOM,
         // you can use PhotoViewAttacherEx.ScaleTypeEx.XXX or ImageView.ScaleType.XXX
 
-        setButtonAction(topCrop, PhotoViewAttacherEx.ScaleTypeEx.TOP_CROP);
-        setButtonAction(bottomCrop, PhotoViewAttacherEx.ScaleTypeEx.BOTTOM_CROP);
+        setButtonAction(topCrop, PhotoViewAttacherEx.ScaleTypeEx.CROP_TOP);
+        setButtonAction(bottomCrop, PhotoViewAttacherEx.ScaleTypeEx.CROP_BOTTOM);
         setButtonAction(fixStart, ImageView.ScaleType.FIT_START);
         setButtonAction(fixEnd, ImageView.ScaleType.FIT_END);
         setButtonAction(fixXY, ImageView.ScaleType.FIT_XY);
