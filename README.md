@@ -1,6 +1,6 @@
 #PhotoViewEx
 
-A [PhotoView](https://github.com/chrisbanes/PhotoView) include TOP_CROP and BOTTOM_CROP.
+A [PhotoView](https://github.com/chrisbanes/PhotoView) include TOP_CROP and BOTTOM_CROP.also works in VerticalViewPager.
 
 <a href="./graphics/device-2015-11-29-161842.png"><img src="./graphics/device-2015-11-29-161842.png" width="40%"/></a>
 <a href="./graphics/device-2015-11-29-161901.png"><img src="./graphics/device-2015-11-29-161901.png" width="40%"/></a>
